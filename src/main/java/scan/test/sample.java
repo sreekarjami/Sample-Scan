@@ -17,7 +17,7 @@ public class sample {
 
      try {
 
-         HttpGet request = new HttpGet("https://sample/get");
+         HttpGet request = new HttpGet("https://sascsmple/get");
 
          CloseableHttpResponse response = httpCl.execute(request);
 
